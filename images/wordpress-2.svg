@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="ICONS_1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 64" enable-background="new 0 0 60 64" xml:space="preserve">
+	 <style xmlns="http://www.w3.org/2000/svg" type="text/css">
+
+.tab_load {
+	opacity: 0;
+	animation: flick-fade 2s ease-out backwards;
+	animation-iteration-count:infinite;
+}
+
+@keyframes flick-fade {
+	0% {opacity: 0;}
+	25% {opacity: 1;}
+}
+
+.hand_move {
+	animation: hold 2s ease-out backwards;
+	animation-iteration-count:infinite;
+}
+
+@keyframes hold {
+	0% {transform: rotateX(0deg);}
+	10% {transform: rotateX(12.5deg);}
+	30% {transform: rotateX(25deg);}
+	80% {transform: rotateX(25deg);}
+}
+
+
+	 </style>
+
+
+
+<g id="_x31_9_x5F_user_x5F_interaction">
+	<line class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" x1="43" y1="35" x2="43" y2="38"/>
+	<line class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" x1="38" y1="34" x2="38" y2="37"/>
+	<line class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" x1="33" y1="32" x2="33" y2="36"/>
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M27,64v-4c0-0.553,0.447-1,1-1h19   c0.553,0,1,0.447,1,1v4"/>
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M45,33c1.656,0,3,1.344,3,3v7c0,7-2,11-2,13v3"/>
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M40,31c1.656,0,3,1.344,3,3v2"/>
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M35,29c1.656,0,3,1.344,3,3v2"/>
+
+
+	<path class="tab_load" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M27.004,26.328C24.637,25.205,23,22.794,23,20   c0-3.866,3.134-7,7-7s7,3.134,7,7c0,2.793-1.635,5.203-4,6.326"/>
+	<path class="tab_load" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M20.778,26C19.653,24.273,19,22.213,19,20   c0-6.075,4.925-11,11-11s11,4.925,11,11c0,2.214-0.654,4.274-1.779,6"/>
+	<path class="tab_load" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M15,20c0-8.284,6.716-15,15-15s15,6.716,15,15"/>
+
+
+	<path fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M15,39H2c-0.552,0-1-0.447-1-1V2   c0-0.553,0.448-1,1-1h56c0.552,0,1,0.447,1,1v36c0,0.553-0.448,1-1,1h-7"/>
+
+
+	<line fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" x1="5" y1="39" x2="5" y2="4"/>
+
+	<line fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" x1="55" y1="36" x2="55" y2="1"/>
+
+
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M27,41V20c0-1.656,1.344-3,3-3s3,1.344,3,3v12"/>
+	<path class="hand_move" fill="none" stroke="#0050d8" stroke-width="2" stroke-miterlimit="10" d="M29,59v-3l-6-8c0,0-3.293-12.293-4-13c-1-1,0-3,2-3   s3,3,3,3l3,6"/>
+</g>
+</svg>

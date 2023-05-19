@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="ICONS_1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+	 <style xmlns="http://www.w3.org/2000/svg" type="text/css">
+
+.line_bg_one {
+	animation-name: linebg-Strock;
+    animation-iteration-count: infinite;
+    animation-duration: 8s;
+    stroke-width: 2px;
+    stroke-dasharray: 200;
+    stroke-dashoffset: -200;
+}
+
+@keyframes linebg-Strock {
+	0% {stroke-dashoffset: 200;}
+	50% {stroke-dashoffset: 0;}
+	100% {stroke-dashoffset: -200;}
+}
+
+.line_arrow_one {
+	animation-name: arrow-Stroke-1;
+    animation-iteration-count: infinite;
+    animation-duration: 8s;
+    stroke-width: 2px;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+}
+
+@keyframes arrow-Stroke-1 {
+	0% {stroke-dashoffset: 100;}
+	50% {stroke-dashoffset: 0;}
+	100% {stroke-dashoffset: -100;}
+}
+
+.line_bg_sec {
+	animation-name: linebg-Sec;
+    animation-iteration-count: infinite;
+    animation-duration: 8s;
+    stroke-width: 2px;
+    stroke-dasharray: 200;
+    stroke-dashoffset: -200;
+}
+
+@keyframes linebg-Sec {
+	0% {stroke-dashoffset: 200;}
+	50% {stroke-dashoffset: 0;}
+	100% {stroke-dashoffset: -200;}
+}
+
+.line_arrow_sec {
+	animation-name: arrow-Stroke-2;
+    animation-iteration-count: infinite;
+    animation-duration: 7.3s;
+    stroke-width: 2px;
+    stroke-dasharray: 200;
+    stroke-dashoffset: -150;
+}
+
+@keyframes arrow-Stroke-2 {
+	0% {stroke-dashoffset: -150;}
+	50% {stroke-dashoffset: 0;}
+	100% {stroke-dashoffset: 200;}
+}
+
+.dot_bg_one {
+	animation-name: dotOpacity-1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes dotOpacity-1 {
+	0% {opacity: 1.5;}
+	50% {opacity: 0.4;}
+	100% {opacity: 1.5;}
+}
+
+.dot_bg_sec {
+	animation-name: dotOpacity-2;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes dotOpacity-2 {
+	0% {opacity: 1.5;}
+	50% {opacity: 0.3;}
+	100% {opacity: 1.5;}
+}
+
+	 </style>
+
+
+<g id="_x30_8_x5F_market_x5F_trends">
+
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5" y1="0" x2="5" y2="64"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="0" y1="59" x2="64" y2="59"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="11" y1="45" x2="17" y2="39"/>
+
+
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="9" y1="56" x2="9" y2="54"/>
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="13" y1="56" x2="13" y2="54"/>
+
+
+	<line class="dot_bg_sec" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="17" y1="56" x2="17" y2="54"/>
+
+
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="21" y1="56" x2="21" y2="54"/>
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="25" y1="56" x2="25" y2="54"/>
+
+
+	<line class="dot_bg_sec" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="29" y1="56" x2="29" y2="54"/>
+
+
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="33" y1="56" x2="33" y2="54"/>
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="37" y1="56" x2="37" y2="54"/>
+
+
+	<line class="dot_bg_sec" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="41" y1="56" x2="41" y2="54"/>
+
+
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="45" y1="56" x2="45" y2="54"/>
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="49" y1="56" x2="49" y2="54"/>
+
+
+	<line class="dot_bg_sec" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="53" y1="56" x2="53" y2="54"/>
+
+
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="57" y1="56" x2="57" y2="54"/>
+	<line class="dot_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="61" y1="56" x2="61" y2="54"/>
+
+
+	<polyline fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="23,33 28,28 42,28 61,9  "/>
+
+
+	<polyline class="line_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="10,11 23,11 29,17 35,11 40,11 47,18  "/>
+	<line class="line_arrow_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="52" y1="23" x2="61" y2="32"/>
+	<polyline class="line_arrow_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="56,32 61,32 61,27  "/>
+
+
+	<polyline fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="61,14 61,9 56,9  "/>
+
+
+	<g class="line_arrow_one">
+		<polyline fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="57,48 61,44 57,40   "/>
+	</g>
+	<polyline class="line_bg_one" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="61,44 44,44 38,38 30,46 11,27  "/>
+</g>
+
+
+
+
+</svg>

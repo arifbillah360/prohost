@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="UPDATE_1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48.333 67.166" enable-background="new 0 0 48.333 67.166" xml:space="preserve">
+	 <style xmlns="http://www.w3.org/2000/svg" type="text/css">
+
+
+
+.ssl_lock {
+    animation-name: sslLock;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    transform-origin: 50% 50%;
+}
+
+@keyframes sslLock {
+	0% {transform: translate(0, -3px);}
+	50% {transform: translate(0, 0);}
+	10% {transform: translate(0, -3px);}
+}
+
+.ssl_check {
+	animation-name: sslCheck;
+    animation-iteration-count: infinite;
+    animation-duration: 6s;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: 1.7px;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+}
+
+@keyframes sslCheck {
+	0% {stroke-dashoffset: 100;}
+	50% {stroke-dashoffset: 0;}
+	100% {stroke-dashoffset: 100;}
+}
+
+
+	 </style>
+
+
+
+<g id="_x33_6_x5F_security_x5F_padlock">
+
+	<path class="ssl_lock" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" d="M41.249,28v-8c0-8.8-7.199-16-16-16h-2   c-8.8,0-16,7.2-16,16v8"/>
+	<path class="ssl_lock" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" d="M35.249,25v-5c0-5.5-4.5-10-10-10h-2   c-5.5,0-10,4.5-10,10v5"/>
+		
+	<polygon class="ssl_check" fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="20.249,43 24.249,47 33.249,38 36.249,41    24.249,53 17.249,46  "/>
+	<path fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" d="M37.249,47c0,7.181-5.819,13-13,13s-13-5.819-13-13   s5.82-13,13-13c1.773,0,3.464,0.356,5.005,0.998"/>
+	<path fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" d="M47.249,63c0,1.649-1.35,3-3,3h-40   c-1.65,0-3-1.351-3-3V31c0-1.65,1.35-3,3-3h40c1.65,0,3,1.35,3,3v10V63z"/>
+	<polyline fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="1.249,30 5.249,34 5.249,60 1.249,64  "/>
+	<polyline fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" points="47.249,30 43.249,34 43.249,60 47.249,64     "/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="37" x2="43.249" y2="37"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="41" x2="43.249" y2="41"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="45" x2="43.249" y2="45"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="49" x2="43.249" y2="49"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="53" x2="43.249" y2="53"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="47.249" y1="57" x2="43.249" y2="57"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="37" x2="1.249" y2="37"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="41" x2="1.249" y2="41"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="45" x2="1.249" y2="45"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="49" x2="1.249" y2="49"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="53" x2="1.249" y2="53"/>
+	<line fill="none" stroke="#09B3F2" stroke-width="2" stroke-miterlimit="10" x1="5.249" y1="57" x2="1.249" y2="57"/>
+</g>
+</svg>
