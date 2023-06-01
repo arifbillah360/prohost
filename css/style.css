@@ -5146,13 +5146,17 @@ mark,
   padding: 10px;
   font-family: ;
   font-size:18px ;
-  background-color: #eee;
+  background-color: ;
  
 }
-.tabContainer .buttonContainer button:hover{
-  background-color: #d7d4d4;
+
+
+.active{
+  background-color: #0050d8;
 
 }
+
+
 .tabContainer .tabPanel{
   height: 85%;
   text-align: center;
@@ -5170,33 +5174,3 @@ mark,
 
 
 
-.btn-box{
-  
-  border-bottom: 1px solid #ccc;
-}
-
-.btn-box button{
-  background: transparent;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  margin-right: 50px;
-  font-size: 20px;
-  font-weight: bold;
-
-}
-.tab-content{
-  overflow: hidden;
-  position: relative;
-}
-.content{
-  position: absolute;
-  transform: translateX(100%) ;
-}
-#content1{
-  transform: translateX(0px);
-}
-#btn1{
-  color: #0050d8;
-}

@@ -414,7 +414,7 @@ function showPanel(panelIndex,colorCode) {
         node.style.color="";
     });
     tabButtons[panelIndex].style.backgroundColor=colorCode;
-    tabButtons[panelIndex].style.color="black";
+    tabButtons[panelIndex].style.color="white";
     tabPanels.forEach(function(node){
         node.style.display="none";
     });
@@ -422,3 +422,13 @@ function showPanel(panelIndex,colorCode) {
     tabPanels[panelIndex].style.backgroundColor=colorCode;
 }
 showPanel(0,'');
+for(var i=0;i< tabButtons.length;i++) {
+  tabButtons [i].addEventListener("click",function(){var current=
+  document.getElementsByClassName("active");
+  current[0].className=
+  current[0].className.replace("active","");
+  this.className +="active"
+  
+  });
+  
+}
