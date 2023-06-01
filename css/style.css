@@ -5120,3 +5120,83 @@ mark,
 .flex-row.flex-head{
   background: #0050d8 !important;
 }
+
+/*tab content1 kajol*/
+.title{
+  font-family: sans-serif;
+  color: #dc2d5e;
+  text-align: center;
+ 
+}
+.tabContainer{
+  width: 100%;
+  height: 650px;
+
+}
+.tabContainer .buttonContainer{
+  height: 15%;
+}
+.tabContainer .buttonContainer button{
+  width: 25%;
+  height: 60%;
+  float: left;
+  border: none;
+  outline:none;
+  cursor: pointer;
+  padding: 10px;
+  font-family: ;
+  font-size:18px ;
+  background-color: #eee;
+ 
+}
+.tabContainer .buttonContainer button:hover{
+  background-color: #d7d4d4;
+
+}
+.tabContainer .tabPanel{
+  height: 85%;
+  text-align: center;
+  padding-top: 10px;
+  box-sizing: border-box;
+  
+  display: none;
+  
+}
+
+ /* endtab content1 kajol*/
+
+
+
+
+
+
+.btn-box{
+  
+  border-bottom: 1px solid #ccc;
+}
+
+.btn-box button{
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  margin-right: 50px;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.tab-content{
+  overflow: hidden;
+  position: relative;
+}
+.content{
+  position: absolute;
+  transform: translateX(100%) ;
+}
+#content1{
+  transform: translateX(0px);
+}
+#btn1{
+  color: #0050d8;
+}
