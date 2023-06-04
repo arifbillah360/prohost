@@ -5194,7 +5194,7 @@ a{
   overflow: hidden;
   background-color: #f1f1f1;
   margin: auto;
-  width: 30%;
+  width: 37%;
 }
 
 /* Style the buttons inside the tab */
@@ -5204,7 +5204,7 @@ a{
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 61px 14px 62px;
+  padding: 14px 16px 14px 16px;
   transition: 0.3s;
   font-size: 17px;
 }
@@ -5233,7 +5233,7 @@ a{
   overflow: hidden;
   background-color: #f1f1f1;
   margin: auto;
-  width: 32%;
+  width: 37%;
 }
 
 /* Style the buttons inside the tab */
@@ -5243,7 +5243,7 @@ a{
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 61px 14px 62px;
+  padding: 14px 16px 14px 16px;
   transition: 0.3s;
   font-size: 17px;
 }
