@@ -404,31 +404,39 @@
 
 })(jQuery);
 
-//create tabs
-var tabButtons=document.querySelectorAll(".tabContainer .buttonContainer button");
-var tabPanels=document.querySelectorAll(".tabContainer  .tabPanel");
 
-function showPanel(panelIndex,colorCode) {
-    tabButtons.forEach(function(node){
-        node.style.backgroundColor="";
-        node.style.color="";
-    });
-    tabButtons[panelIndex].style.backgroundColor=colorCode;
-    tabButtons[panelIndex].style.color="white";
-    tabPanels.forEach(function(node){
-        node.style.display="none";
-    });
-    tabPanels[panelIndex].style.display="block";
-    tabPanels[panelIndex].style.backgroundColor=colorCode;
+
+//table content kajol
+
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
 }
-showPanel(0,'');
-for(var i=0;i< tabButtons.length;i++) {
-  tabButtons [i].addEventListener("click",function(){var current=
-  document.getElementsByClassName("active");
-  current[0].className=
-  current[0].className.replace("active","");
-  this.className +="active"
-  
-  });
-  
-}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+
+//table content kajol
+
+document.getElementsByClassName("datalinks") [0].addEventListener("click",function(){
+  document.getElementsByClassName("datacontent")[0].style.display="block";
+  document.getElementsByClassName("datacontent")[1].style.display="none";
+  document.getElementsByClassName("datalinks") [0].classList.add("active");
+  document.getElementsByClassName("datalinks") [1].classList.remove("active");
+})
+document.getElementsByClassName("datalinks") [1].addEventListener("click",function(){
+  document.getElementsByClassName("datacontent")[1].style.display="block";
+  document.getElementsByClassName("datacontent")[0].style.display="none";
+  document.getElementsByClassName("datalinks") [1].classList.add("active");
+  document.getElementsByClassName("datalinks") [0].classList.remove("active");
+});
+document.getElementById("firstOpen").click();
