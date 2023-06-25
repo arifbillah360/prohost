@@ -5124,6 +5124,13 @@ mark,
 .progray {
     color: #F2F3FA;
 }
+
+.pro-f img {
+    height: 80px;
+  }
+.pro-f {
+   //margin-left: 65px;
+}
 /* Arif Custom CSS end */
 
 
